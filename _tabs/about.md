@@ -13,6 +13,6 @@ I am a full stack developer currently working as a Business Innovation Analyst a
 
 When I am not coding, I take some time to go outdoors hiking, playing tennis, biking and snowboarding. I recently took a painting class and I am looking forward to explore the artistic side of me.
 
-![my_painting](../assets/my-painting.jpg)
+![my_painting](../assets/my-painting.jpeg)
 
 Thanks for stopping by and checking my profile =)
