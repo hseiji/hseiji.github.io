@@ -1,1 +1,1 @@
-## My personal devblog [https://hseiji/hseiji.github.io](https://hseiji/hseiji.github.io)
+## My personal devblog [https://hseiji.github.io](https://hseiji/hseiji.github.io)
