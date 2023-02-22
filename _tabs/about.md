@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-> {: .prompt-tip } -->
-
 ### Hi there! 👋
 
 I am a full stack developer currently working as a Business Innovation Analyst at a Financial Institution. I love to work on projects that enables me to use different approaches and be creative while solving complex problems. I have a bachelor in Computer Engineering and recently graduated from Lighthouse Labs bootcamp.
@@ -25,7 +22,8 @@ I am a full stack developer currently working as a Business Innovation Analyst a
 
 ### Projects
 
-Please don't forget to check some of my projects on the left side 👈
+> Please don't forget to check some of my projects on the left side 👈
+> {: .prompt-info }
 
 ### Miscellaneous
 
