@@ -4,7 +4,17 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-<!-- ## [Toronto Gems]()
+## [Toronto Gems](https://blog-toronto-app.onrender.com/#/)
+
+If you are new to the city of Toronto, don't worry we got you covered! Besides the must go places this blog contains some underrated spots worth checking before they get popular (nobody likes big lines for IG shots right?).
+
+![tgems1](../assets/tgems1.png)
+![tgems2](../assets/tgems2.png)
+![tgems3](../assets/tgems3.png)
+
+### Tech stack: MongoDB, ExpressJs, ReactJs, NodeJs, Javascript, HTML and CSS.
+
+#### [Check it here](https://blog-toronto-app.onrender.com/#/)
 
 --- -->
 
