@@ -1,0 +1,66 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Henrique Takahashi</title>
+  <subtitle>A minimal, responsive, and powerful Jekyll theme for presenting professional writing.</subtitle>
+  <updated>2023-02-21T20:30:16-05:00</updated>
+  <author>
+    <name>Henrique Takahashi</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2023 Henrique Takahashi </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Greetings from me</title>
+    <link href="http://localhost:4000/posts/first-post/" rel="alternate" type="text/html" title="Greetings from me" />
+    <published>2023-02-21T07:30:00-05:00</published>
+  
+    <updated>2023-02-21T07:30:00-05:00</updated>
+  
+    <id>http://localhost:4000/posts/first-post/</id>
+    <content src="http://localhost:4000/posts/first-post/" />
+    <author>
+      <name>Henrique Takahashi</name>
+    </author>
+
+  
+    
+    <category term="new" />
+    
+    <category term="post" />
+    
+    <category term="greet" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Welcome to my first post
+
+Thanks for visiting my devblog page and hopefully you read some interesting stuff here. It could whether be something I’m learning or bring up topics I consider important to know (knowledge is never enough).
+
+Don’t forget to visit the ABOUT and PROJECTS on the left section to get me know better. Cheers =)
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
