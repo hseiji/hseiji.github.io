@@ -54,6 +54,12 @@ jobs:
         run: |
           bundle exec htmlproofer _site --disable-external --check-html --allow_hash_href
 
+      - name: Pre-fetch upload-artifact (to avoid download error)
+        uses: actions/upload-artifact@v3
+        with:
+          name: dummy
+          path: README.md
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
