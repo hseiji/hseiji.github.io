@@ -6,7 +6,7 @@ order: 1
 
 ### Hi there! 👋
 
-I am a full stack developer currently working as a Business Innovation Analyst at a Financial Institution. I love to work on projects that enables me to use different approaches and be creative while solving complex problems. I have a bachelor in Computer Engineering and recently graduated from Lighthouse Labs bootcamp.
+I am a Developer / Analyst currently working at a Financial Institution. I love to work on projects that enables me to use different approaches and be creative while solving complex problems. I have a bachelor in Computer Engineering and recently graduated from a Web Development bootcamp at Lighthouse Labs.
 
 ### Skills
 
