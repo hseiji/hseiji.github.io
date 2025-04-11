@@ -4,22 +4,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-## [Green Room](https://green-room-app.onrender.com)
-
-This webpage helps you to manage your plants based on few characteristics like, water, soil and light. Choose your own plants from the inventory, build and play around your Green Room.
-
-### Tech stack: Typescript, HTML, CSS, ReactJs, Postgres and ExpressJs.
-
-![groom1](../assets/groom1.png)
-![groom2](../assets/groom2.png)
-![groom3](../assets/groom3.png)
-![groom4](../assets/groom4.png)
-
-#### [Check it here](https://green-room-app.onrender.com)
-
----
-
-## [Dracaena Marginata](https://hseiji.github.io/dracaena-marginata/)
+## [Dracaena Marginata](https://hseiji.github.io/green-room-app/)
 
 Responsive web page about the Dragon Tree or most known as Dracaena Marginata. You will find some interesting facts and details on how to keep your little plant friend alive.
 
@@ -30,6 +15,21 @@ Responsive web page about the Dragon Tree or most known as Dracaena Marginata. Y
 ![dracaena3](../assets/dracaena3.png)
 
 #### [Check it here](https://hseiji.github.io/dracaena-marginata/)
+
+---
+
+## [Green Room](https://hseiji.github.io/green-room-app/)
+
+This webpage helps you to manage your plants based on few characteristics like, water, soil and light. Choose your own plants from the inventory, build and play around your Green Room.
+
+### Tech stack: Typescript, HTML, CSS, ReactJs, Postgres and ExpressJs.
+
+![groom1](../assets/groom1.png)
+![groom2](../assets/groom2.png)
+![groom3](../assets/groom3.png)
+![groom4](../assets/groom4.png)
+
+#### [Check it here](https://hseiji.github.io/green-room-app/)
 
 ---
 
