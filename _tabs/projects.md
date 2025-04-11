@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-## [Dracaena Marginata](https://hseiji.github.io/green-room-app/)
+## [Dracaena Marginata](https://hseiji.github.io/dracaena-marginata/)
 
 Responsive web page about the Dragon Tree or most known as Dracaena Marginata. You will find some interesting facts and details on how to keep your little plant friend alive.
 
