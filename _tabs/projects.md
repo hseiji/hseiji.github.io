@@ -4,6 +4,24 @@ icon: fas fa-info-circle
 order: 2
 ---
 
+## [F1 Race Predictions](https://hseiji.github.io/f1go/)
+
+Machine Learning Model created to predict F1 GP winners based on past performance, qualifying lap times, and historical F1 data.
+This model utilizes FastF1 API for historical F1 data (race results, qualifying times, among other metrics).
+There are many future improvements that I would like to learn and add to this model.
+
+Expected output example:
+```
+🏁 Predicted GP Winner 🏁
+Predicted Lap Times and GP Winner:
+
+  Abbreviation  Q3_seconds  Predicted_LapTime (s)
+1          NOR      86.269              93.968200
+2          ANT      86.271              93.968200
+7          LEC      86.754              94.219445
+0          VER      86.204              94.605306
+```
+
 ## [Dracaena Marginata](https://hseiji.github.io/dracaena-marginata/)
 
 Responsive web page about the Dragon Tree or most known as Dracaena Marginata. You will find some interesting facts and details on how to keep your little plant friend alive.
