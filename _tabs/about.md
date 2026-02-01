@@ -6,7 +6,7 @@ order: 1
 
 ### Hi there! 👋
 
-I am a Developer / Analyst currently working at a Financial Institution. I love to work on projects that enables me to use different approaches and be creative while solving complex problems. I have a bachelor in Computer Engineering and recently graduated from a Web Development bootcamp at Lighthouse Labs.
+I’m a Developer at a leading financial institution, with a strong focus on building reliable, scalable, and accessible solutions. I enjoy solving complex problems using data-driven and programmatic approaches, focusing on simple, scalable solutions that deliver real impact.
 
 ### Skills
 
