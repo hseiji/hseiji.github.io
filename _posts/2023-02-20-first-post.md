@@ -2,7 +2,7 @@
 title: Greetings from me
 date: 2023-02-21 07:30:00 -500
 categories: [new, post, greet]
-tags: [intro, tech, development]
+tags: [intro, tech, coding]
 ---
 
 ## Welcome to my first post
