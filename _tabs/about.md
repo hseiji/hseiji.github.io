@@ -10,15 +10,15 @@ I’m a Developer at a leading financial institution, with a strong focus on bui
 
 ### Skills
 
-| Languages  | Frameworks/Libraries | Systems/DBs |  Testing       |  Automation
-| :--------: | :------------------: | :---------: | :------------: | :---------:
-| Javascript |        NodeJs        |  Postgres   |    Cypress     | Selenium |
-| Typescript |       ReactJs        |   MongoDB   |   Storybook    | Alteryx |
+| Languages  | Frameworks/Libraries | Systems/DBs |  Testing       |  Automation     |
+| :--------: | :------------------: | :---------: | :------------: | :-------------: |
+| Javascript |        NodeJs        |  Postgres   |    Cypress     |    Selenium     |
+| Typescript |       ReactJs        |   MongoDB   |   Storybook    |    Alteryx      |
 |   Python   |      ExpressJs       |     SQL     |     Jest       |  Power Automate |
-|     C      |      MaterialUI      |     Git     |     Mocha      | UiPath
-|    VBA     |         EJS          |   Docker    |     Chai       |
-|    HTML    |        Axios         |    Jira     |     Rspec      |
-|    CSS     |       Freemarker     |  Confluence |                |
+|     C      |      MaterialUI      |     Git     |     Mocha      |     UiPath      |
+|    VBA     |         EJS          |   Docker    |     Chai       |                 |
+|    HTML    |        Axios         |    Jira     |     Rspec      |                 |
+|    CSS     |       Freemarker     |  Confluence |                |                 |
 
 ### Projects
 
@@ -27,7 +27,7 @@ I’m a Developer at a leading financial institution, with a strong focus on bui
 
 ### Miscellaneous
 
-When I am not coding, I take some time to go outdoors hiking, playing tennis, biking and snowboarding. I recently took a painting class and I am looking forward to explore the artistic side of me.
+When I am not working or busy with side projects, I take some time to go outdoors hiking, playing tennis, biking and snowboarding. I recently took a painting class and I am looking forward to explore the artistic side of me.
 
 ![my_painting](../assets/my-painting.jpeg)
 
