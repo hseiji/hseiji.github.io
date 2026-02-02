@@ -10,15 +10,15 @@ I’m a Developer at a leading financial institution, with a strong focus on bui
 
 ### Skills
 
-| Languages  | Frameworks/Libraries | Systems/DBs |  Testing  |
-| :--------: | :------------------: | :---------: | :-------: |
-| Javascript |        NodeJs        |  Postgres   |  Cypress  |
-| Typescript |       ReactJs        |   MongoDB   | Storybook |
-|   Python   |      ExpressJs       |     SQL     |   Jest    |
-|    Ruby    |      MaterialUI      |     Git     |   Mocha   |
-|    VBA     |         EJS          |   Docker    |   Chai    |
-|    HTML    |        Axios         |    Jira     |   Rspec   |
-|    CSS     |       Selenium       |             |           |
+| Languages  | Frameworks/Libraries | Systems/DBs |  Testing       |  Automation
+| :--------: | :------------------: | :---------: | :------------: | :---------:
+| Javascript |        NodeJs        |  Postgres   |    Cypress     | Selenium |
+| Typescript |       ReactJs        |   MongoDB   |   Storybook    | Alteryx |
+|   Python   |      ExpressJs       |     SQL     |     Jest       |  Power Automate |
+|     C      |      MaterialUI      |     Git     |     Mocha      | UiPath
+|    VBA     |         EJS          |   Docker    |     Chai       |
+|    HTML    |        Axios         |    Jira     |     Rspec      |
+|    CSS     |       Freemarker     |  Confluence |                |
 
 ### Projects
 
